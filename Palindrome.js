@@ -13,8 +13,12 @@ function xyz (arr){
 }
 
 
-function plaindrome_check (str){
+function isPalindrome (str){
 
-    str.split().reverse().join()  
+    let rev = str.split("").reverse().join(""); 
+    if (rev == str) {
+        return true
+    }
+    return false
 
 }
