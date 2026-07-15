@@ -1,0 +1,19 @@
+{
+  "name": "javascript-basics",
+  "version": "1.0.0",
+  "description": "Personal reference: foundational JavaScript for web dev & IoT, plus TypeScript foundations.",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node",
+    "ts:build": "tsc",
+    "ts:run": "ts-node",
+    "note": "Run any snippet with: node <path/to/file.js>  |  Run a .ts file with: npx ts-node <path/to/file.ts>"
+  },
+  "keywords": ["javascript", "typescript", "learning", "iot", "webdev"],
+  "author": "asathyajith",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "ts-node": "^10.9.0"
+  }
+}
