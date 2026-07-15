@@ -1,4 +1,4 @@
-// Typed version of the IoT payload decoder (see 05-iot/payload-decoder.js).
+// Typed version of the IoT payload decoder (see iot/payload-decoder.js).
 // Shows how interfaces + unions make a decoder self-documenting.
 
 type UplinkFrequency =

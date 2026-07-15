@@ -9,6 +9,6 @@
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true
   },
-  "include": ["06-typescript/**/*.ts"],
+  "include": ["typescript/**/*.ts"],
   "exclude": ["node_modules", "dist"]
 }

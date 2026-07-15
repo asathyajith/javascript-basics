@@ -1,6 +1,6 @@
 // Minimal REST API with Node's built-in http module (no dependencies).
 //
-// Run:   node 08-backend/rest-api.js
+// Run:   node backend/rest-api.js
 // Then:  curl http://localhost:3000/users
 //        curl -X POST http://localhost:3000/users -d '{"name":"Ada"}'
 // Stop:  Ctrl+C

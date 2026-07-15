@@ -1,7 +1,7 @@
 // Decode (NOT verify) a JWT to see its parts. Pure Node, no dependencies.
 // Decoding needs no secret — that's why you must never trust an unverified token.
 //
-// Run:  node 08-backend/jwt-decode.js
+// Run:  node backend/jwt-decode.js
 
 // A sample HS256 token (header.payload.signature).
 const token =
