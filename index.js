@@ -2,7 +2,7 @@
 // const a = 3;
 // let x = 10;
 // x += 5;
-// console.log();
+// console.log(x);
 
 //checking integer//
 // function isInt(num) {
@@ -47,6 +47,9 @@
 //         //false
 //     );
 // };
+
+// try {}
+// catch(e){};
 
 
 // cookies//
